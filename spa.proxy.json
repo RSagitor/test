@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44436",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Michał\\source\\repos\\Jira_raport\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

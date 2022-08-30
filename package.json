@@ -1,0 +1,19 @@
+{
+  "name": "jira_raport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-loader-spinner": "^5.2.0",
+    "react-loading": "^2.0.3"
+  },
+  "description": ""
+}

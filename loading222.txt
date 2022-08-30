@@ -1,0 +1,4 @@
+let contents = this.state.loading
+? <>  <ReactLoading style={{ alignItems: 'center', height: 500, width: 800 }} type="bubbles"/>
+  </>
+: Today.renderPage(this.state.jira);
