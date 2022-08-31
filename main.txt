@@ -1,3 +1,4 @@
+using system;
 main{
 printf("hello world");
 printf("witaj");
